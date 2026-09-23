@@ -18,9 +18,9 @@ A lightweight, zero-dependency personal website built with pure semantic HTML5 a
 ---
 
 ## ✨ Key Features
-- ⚡ **Zero build step requirement**: runs instantly in any browser
-- ⚡ **Fully responsive mobile layout with CSS Flexbox / Grid**: Fully responsive mobile layout with CSS Flexbox / Grid
-- ⚡ **Clean profile presentation with social links**: Clean profile presentation with social links
+- Zero build step requirement - runs instantly in any browser
+- Fully responsive mobile layout with CSS Flexbox / Grid
+- Clean profile presentation with social links
 
 ---
 
