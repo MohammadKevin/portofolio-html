@@ -12,26 +12,26 @@
 
 ---
 
-## 📌 Overview
+## Overview
 A lightweight, zero-dependency personal website built with pure semantic HTML5 and modern CSS3 for high performance and universal browser compatibility.
 
 ---
 
-## ✨ Key Features
+## Key Features
 - Zero build step requirement - runs instantly in any browser
 - Fully responsive mobile layout with CSS Flexbox / Grid
 - Clean profile presentation with social links
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Structure**: HTML5 Semantic Elements
 - **Styling**: CSS3 Variables, Modern Flexbox/Grid
 - **Script**: Vanilla JavaScript
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```text
 portofolio-html/
 ├── index.html          # Main HTML structure
@@ -40,7 +40,7 @@ portofolio-html/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 Make sure you have the required runtimes and tools installed on your machine:
@@ -56,7 +56,7 @@ cd portofolio-html
 
 ---
 
-## 👤 Author
+## Author
 **Mohammad Kevin Arif Rudianto**
 - **GitHub:** [@MohammadKevin](https://github.com/MohammadKevin)
 - **Portfolio:** [portfolio-mohammadkevin.vercel.app](https://portfolio-mohammadkevin.vercel.app)
@@ -65,9 +65,9 @@ cd portofolio-html
 
 ---
 
-## 📄 License
+## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 <div align="center">
-⭐️ If you found this repository useful, please consider giving it a star!
+If you found this repository useful, please consider giving it a star!
 </div>
